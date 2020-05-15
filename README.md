@@ -41,11 +41,10 @@ All printed messages and user input are in English to simplify the code.
 
 ## CopyRight
 
-/*********************************************************************************
   *FileName:		MyAdventure
   *Author:		Miracle_Zero
   *Date:		2020/3/28
-**********************************************************************************/
+
 
 ## 任务需求
 
